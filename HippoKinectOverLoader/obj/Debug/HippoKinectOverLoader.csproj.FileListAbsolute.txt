@@ -1,0 +1,8 @@
+E:\WorkSpace\GitHub\HippoKinectOverLoader\HippoKinectOverLoader\bin\Debug\HippoKinectOverLoader.exe.config
+E:\WorkSpace\GitHub\HippoKinectOverLoader\HippoKinectOverLoader\obj\Debug\HippoKinectOverLoader.csproj.GenerateResource.Cache
+E:\WorkSpace\GitHub\HippoKinectOverLoader\HippoKinectOverLoader\bin\Debug\HippoKinectOverLoader.exe
+E:\WorkSpace\GitHub\HippoKinectOverLoader\HippoKinectOverLoader\bin\Debug\HippoKinectOverLoader.pdb
+E:\WorkSpace\GitHub\HippoKinectOverLoader\HippoKinectOverLoader\obj\Debug\HippoKinectOverLoader.ServiceInstaller.resources
+E:\WorkSpace\GitHub\HippoKinectOverLoader\HippoKinectOverLoader\obj\Debug\HippoKinectOverLoader.exe
+E:\WorkSpace\GitHub\HippoKinectOverLoader\HippoKinectOverLoader\obj\Debug\HippoKinectOverLoader.pdb
+E:\WorkSpace\GitHub\HippoKinectOverLoader\HippoKinectOverLoader\obj\Debug\HippoKinectOverLoader.csprojResolveAssemblyReference.cache
